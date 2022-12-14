@@ -1,0 +1,302 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: app-release(1).apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- lib/arm64-v8a/libbarhopper_v3.so
+- lib/arm64-v8a/libbetter.so
+- lib/arm64-v8a/libc++_shared.so
+- lib/arm64-v8a/libfabricjni.so
+- lib/arm64-v8a/libfb.so
+- lib/arm64-v8a/libfbjni.so
+- lib/arm64-v8a/libfolly_futures.so
+- lib/arm64-v8a/libfolly_json.so
+- lib/arm64-v8a/libglog.so
+- lib/arm64-v8a/libglog_init.so
+- lib/arm64-v8a/libhermes-executor-common-debug.so
+- lib/arm64-v8a/libhermes-executor-common-release.so
+- lib/arm64-v8a/libhermes-executor-debug.so
+- lib/arm64-v8a/libhermes-executor-release.so
+- lib/arm64-v8a/libhermes-inspector.so
+- lib/arm64-v8a/libimage_processing_util_jni.so
+- lib/arm64-v8a/libimagepipeline.so
+- lib/arm64-v8a/libjsc.so
+- lib/arm64-v8a/libjscexecutor.so
+- lib/arm64-v8a/libjsijniprofiler.so
+- lib/arm64-v8a/libjsinspector.so
+- lib/arm64-v8a/libmapbufferjni.so
+- lib/arm64-v8a/libnative-filters.so
+- lib/arm64-v8a/libnative-imagetranscoder.so
+- lib/arm64-v8a/libreact_codegen_rncore.so
+- lib/arm64-v8a/libreact_debug.so
+- lib/arm64-v8a/libreact_nativemodule_core.so
+- lib/arm64-v8a/libreact_render_animations.so
+- lib/arm64-v8a/libreact_render_attributedstring.so
+- lib/arm64-v8a/libreact_render_componentregistry.so
+- lib/arm64-v8a/libreact_render_core.so
+- lib/arm64-v8a/libreact_render_debug.so
+- lib/arm64-v8a/libreact_render_graphics.so
+- lib/arm64-v8a/libreact_render_imagemanager.so
+- lib/arm64-v8a/libreact_render_leakchecker.so
+- lib/arm64-v8a/libreact_render_mapbuffer.so
+- lib/arm64-v8a/libreact_render_mounting.so
+- lib/arm64-v8a/libreact_render_runtimescheduler.so
+- lib/arm64-v8a/libreact_render_scheduler.so
+- lib/arm64-v8a/libreact_render_telemetry.so
+- lib/arm64-v8a/libreact_render_templateprocessor.so
+- lib/arm64-v8a/libreact_render_textlayoutmanager.so
+- lib/arm64-v8a/libreact_render_uimanager.so
+- lib/arm64-v8a/libreact_utils.so
+- lib/arm64-v8a/libreactconfig.so
+- lib/arm64-v8a/libreactnativeblob.so
+- lib/arm64-v8a/libreactnativejni.so
+- lib/arm64-v8a/libreactnativeutilsjni.so
+- lib/arm64-v8a/libreactperfloggerjni.so
+- lib/arm64-v8a/libreanimated.so
+- lib/arm64-v8a/librrc_image.so
+- lib/arm64-v8a/librrc_modal.so
+- lib/arm64-v8a/librrc_picker.so
+- lib/arm64-v8a/librrc_progressbar.so
+- lib/arm64-v8a/librrc_root.so
+- lib/arm64-v8a/librrc_scrollview.so
+- lib/arm64-v8a/librrc_slider.so
+- lib/arm64-v8a/librrc_switch.so
+- lib/arm64-v8a/librrc_text.so
+- lib/arm64-v8a/librrc_textinput.so
+- lib/arm64-v8a/librrc_unimplementedview.so
+- lib/arm64-v8a/librrc_view.so
+- lib/arm64-v8a/libturbomodulejsijni.so
+- lib/arm64-v8a/libyoga.so
+- lib/armeabi-v7a/libbarhopper_v3.so
+- lib/armeabi-v7a/libbetter.so
+- lib/armeabi-v7a/libc++_shared.so
+- lib/armeabi-v7a/libfabricjni.so
+- lib/armeabi-v7a/libfb.so
+- lib/armeabi-v7a/libfbjni.so
+- lib/armeabi-v7a/libfolly_futures.so
+- lib/armeabi-v7a/libfolly_json.so
+- lib/armeabi-v7a/libglog.so
+- lib/armeabi-v7a/libglog_init.so
+- lib/armeabi-v7a/libhermes-executor-common-debug.so
+- lib/armeabi-v7a/libhermes-executor-common-release.so
+- lib/armeabi-v7a/libhermes-executor-debug.so
+- lib/armeabi-v7a/libhermes-executor-release.so
+- lib/armeabi-v7a/libhermes-inspector.so
+- lib/armeabi-v7a/libimage_processing_util_jni.so
+- lib/armeabi-v7a/libimagepipeline.so
+- lib/armeabi-v7a/libjsc.so
+- lib/armeabi-v7a/libjscexecutor.so
+- lib/armeabi-v7a/libjsijniprofiler.so
+- lib/armeabi-v7a/libjsinspector.so
+- lib/armeabi-v7a/libmapbufferjni.so
+- lib/armeabi-v7a/libnative-filters.so
+- lib/armeabi-v7a/libnative-imagetranscoder.so
+- lib/armeabi-v7a/libreact_codegen_rncore.so
+- lib/armeabi-v7a/libreact_debug.so
+- lib/armeabi-v7a/libreact_nativemodule_core.so
+- lib/armeabi-v7a/libreact_render_animations.so
+- lib/armeabi-v7a/libreact_render_attributedstring.so
+- lib/armeabi-v7a/libreact_render_componentregistry.so
+- lib/armeabi-v7a/libreact_render_core.so
+- lib/armeabi-v7a/libreact_render_debug.so
+- lib/armeabi-v7a/libreact_render_graphics.so
+- lib/armeabi-v7a/libreact_render_imagemanager.so
+- lib/armeabi-v7a/libreact_render_leakchecker.so
+- lib/armeabi-v7a/libreact_render_mapbuffer.so
+- lib/armeabi-v7a/libreact_render_mounting.so
+- lib/armeabi-v7a/libreact_render_runtimescheduler.so
+- lib/armeabi-v7a/libreact_render_scheduler.so
+- lib/armeabi-v7a/libreact_render_telemetry.so
+- lib/armeabi-v7a/libreact_render_templateprocessor.so
+- lib/armeabi-v7a/libreact_render_textlayoutmanager.so
+- lib/armeabi-v7a/libreact_render_uimanager.so
+- lib/armeabi-v7a/libreact_utils.so
+- lib/armeabi-v7a/libreactconfig.so
+- lib/armeabi-v7a/libreactnativeblob.so
+- lib/armeabi-v7a/libreactnativejni.so
+- lib/armeabi-v7a/libreactnativeutilsjni.so
+- lib/armeabi-v7a/libreactperfloggerjni.so
+- lib/armeabi-v7a/libreanimated.so
+- lib/armeabi-v7a/librrc_image.so
+- lib/armeabi-v7a/librrc_modal.so
+- lib/armeabi-v7a/librrc_picker.so
+- lib/armeabi-v7a/librrc_progressbar.so
+- lib/armeabi-v7a/librrc_root.so
+- lib/armeabi-v7a/librrc_scrollview.so
+- lib/armeabi-v7a/librrc_slider.so
+- lib/armeabi-v7a/librrc_switch.so
+- lib/armeabi-v7a/librrc_text.so
+- lib/armeabi-v7a/librrc_textinput.so
+- lib/armeabi-v7a/librrc_unimplementedview.so
+- lib/armeabi-v7a/librrc_view.so
+- lib/armeabi-v7a/libturbomodulejsijni.so
+- lib/armeabi-v7a/libyoga.so
+- lib/x86/libbarhopper_v3.so
+- lib/x86/libbetter.so
+- lib/x86/libc++_shared.so
+- lib/x86/libfabricjni.so
+- lib/x86/libfb.so
+- lib/x86/libfbjni.so
+- lib/x86/libfolly_futures.so
+- lib/x86/libfolly_json.so
+- lib/x86/libglog.so
+- lib/x86/libglog_init.so
+- lib/x86/libhermes-executor-common-debug.so
+- lib/x86/libhermes-executor-common-release.so
+- lib/x86/libhermes-executor-debug.so
+- lib/x86/libhermes-executor-release.so
+- lib/x86/libhermes-inspector.so
+- lib/x86/libimage_processing_util_jni.so
+- lib/x86/libimagepipeline.so
+- lib/x86/libjsc.so
+- lib/x86/libjscexecutor.so
+- lib/x86/libjsijniprofiler.so
+- lib/x86/libjsinspector.so
+- lib/x86/libmapbufferjni.so
+- lib/x86/libnative-filters.so
+- lib/x86/libnative-imagetranscoder.so
+- lib/x86/libreact_codegen_rncore.so
+- lib/x86/libreact_debug.so
+- lib/x86/libreact_nativemodule_core.so
+- lib/x86/libreact_render_animations.so
+- lib/x86/libreact_render_attributedstring.so
+- lib/x86/libreact_render_componentregistry.so
+- lib/x86/libreact_render_core.so
+- lib/x86/libreact_render_debug.so
+- lib/x86/libreact_render_graphics.so
+- lib/x86/libreact_render_imagemanager.so
+- lib/x86/libreact_render_leakchecker.so
+- lib/x86/libreact_render_mapbuffer.so
+- lib/x86/libreact_render_mounting.so
+- lib/x86/libreact_render_runtimescheduler.so
+- lib/x86/libreact_render_scheduler.so
+- lib/x86/libreact_render_telemetry.so
+- lib/x86/libreact_render_templateprocessor.so
+- lib/x86/libreact_render_textlayoutmanager.so
+- lib/x86/libreact_render_uimanager.so
+- lib/x86/libreact_utils.so
+- lib/x86/libreactconfig.so
+- lib/x86/libreactnativeblob.so
+- lib/x86/libreactnativejni.so
+- lib/x86/libreactnativeutilsjni.so
+- lib/x86/libreactperfloggerjni.so
+- lib/x86/libreanimated.so
+- lib/x86/librrc_image.so
+- lib/x86/librrc_modal.so
+- lib/x86/librrc_picker.so
+- lib/x86/librrc_progressbar.so
+- lib/x86/librrc_root.so
+- lib/x86/librrc_scrollview.so
+- lib/x86/librrc_slider.so
+- lib/x86/librrc_switch.so
+- lib/x86/librrc_text.so
+- lib/x86/librrc_textinput.so
+- lib/x86/librrc_unimplementedview.so
+- lib/x86/librrc_view.so
+- lib/x86/libturbomodulejsijni.so
+- lib/x86/libyoga.so
+- lib/x86_64/libbarhopper_v3.so
+- lib/x86_64/libbetter.so
+- lib/x86_64/libc++_shared.so
+- lib/x86_64/libfabricjni.so
+- lib/x86_64/libfb.so
+- lib/x86_64/libfbjni.so
+- lib/x86_64/libfolly_futures.so
+- lib/x86_64/libfolly_json.so
+- lib/x86_64/libglog.so
+- lib/x86_64/libglog_init.so
+- lib/x86_64/libhermes-executor-common-debug.so
+- lib/x86_64/libhermes-executor-common-release.so
+- lib/x86_64/libhermes-executor-debug.so
+- lib/x86_64/libhermes-executor-release.so
+- lib/x86_64/libhermes-inspector.so
+- lib/x86_64/libimage_processing_util_jni.so
+- lib/x86_64/libimagepipeline.so
+- lib/x86_64/libjsc.so
+- lib/x86_64/libjscexecutor.so
+- lib/x86_64/libjsijniprofiler.so
+- lib/x86_64/libjsinspector.so
+- lib/x86_64/libmapbufferjni.so
+- lib/x86_64/libnative-filters.so
+- lib/x86_64/libnative-imagetranscoder.so
+- lib/x86_64/libreact_codegen_rncore.so
+- lib/x86_64/libreact_debug.so
+- lib/x86_64/libreact_nativemodule_core.so
+- lib/x86_64/libreact_render_animations.so
+- lib/x86_64/libreact_render_attributedstring.so
+- lib/x86_64/libreact_render_componentregistry.so
+- lib/x86_64/libreact_render_core.so
+- lib/x86_64/libreact_render_debug.so
+- lib/x86_64/libreact_render_graphics.so
+- lib/x86_64/libreact_render_imagemanager.so
+- lib/x86_64/libreact_render_leakchecker.so
+- lib/x86_64/libreact_render_mapbuffer.so
+- lib/x86_64/libreact_render_mounting.so
+- lib/x86_64/libreact_render_runtimescheduler.so
+- lib/x86_64/libreact_render_scheduler.so
+- lib/x86_64/libreact_render_telemetry.so
+- lib/x86_64/libreact_render_templateprocessor.so
+- lib/x86_64/libreact_render_textlayoutmanager.so
+- lib/x86_64/libreact_render_uimanager.so
+- lib/x86_64/libreact_utils.so
+- lib/x86_64/libreactconfig.so
+- lib/x86_64/libreactnativeblob.so
+- lib/x86_64/libreactnativejni.so
+- lib/x86_64/libreactnativeutilsjni.so
+- lib/x86_64/libreactperfloggerjni.so
+- lib/x86_64/libreanimated.so
+- lib/x86_64/librrc_image.so
+- lib/x86_64/librrc_modal.so
+- lib/x86_64/librrc_picker.so
+- lib/x86_64/librrc_progressbar.so
+- lib/x86_64/librrc_root.so
+- lib/x86_64/librrc_scrollview.so
+- lib/x86_64/librrc_slider.so
+- lib/x86_64/librrc_switch.so
+- lib/x86_64/librrc_text.so
+- lib/x86_64/librrc_textinput.so
+- lib/x86_64/librrc_unimplementedview.so
+- lib/x86_64/librrc_view.so
+- lib/x86_64/libturbomodulejsijni.so
+- lib/x86_64/libyoga.so
+- assets/mlkit_barcode_models/barcode_ssd_mobilenet_v1_dmp25_quant.tflite
+- assets/mlkit_barcode_models/oned_auto_regressor_mobile.tflite
+- assets/mlkit_barcode_models/oned_feature_extractor_mobile.tflite
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '23'
+  targetSdkVersion: '30'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  barcode-scanning-common.properties: '8'
+  barcode-scanning.properties: '8'
+  common.properties: '8'
+  firebase-annotations.properties: '8'
+  firebase-components.properties: '8'
+  firebase-encoders-json.properties: '8'
+  firebase-encoders.properties: '8'
+  image.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-mlkit-barcode-scanning.properties: '8'
+  play-services-tasks.properties: '8'
+  transport-api.properties: '8'
+  transport-backend-cct.properties: '8'
+  transport-runtime.properties: '8'
+  vision-common.properties: '8'
+  vision-interfaces.properties: '8'
+  okhttp3/internal/publicsuffix/NOTICE: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.1
+versionInfo:
+  versionCode: '1670447896'
+  versionName: 1.2.34
